@@ -1,0 +1,43 @@
+{
+    "pals": [
+        {
+            "id": 1,
+            "name": "Jerrica Benton",
+            "email": "synergy@starlightmusic.com"
+        },
+        {
+            "id": 2,
+            "name": "Eric Raymond",
+            "email": "eric@.misfitsmusic.com"
+        },
+        {
+            "id": 3,
+            "name": "Pizzazz Gabor",
+            "email": "pizzazz@misfits.com"
+        },
+        {
+            "id": 4,
+            "name": "Kimber Benton",
+            "email": "kimber@starlightmusic.com"
+        }
+    ],
+    "topics": [
+        {
+            "id": 1,
+            "name": "music"
+        },
+        {
+            "id": 2,
+            "name": "business"
+        },
+        {
+            "id": 3,
+            "name": "performances"
+        },
+        {
+            "id": 4,
+            "name": "other"
+        }
+    ],
+    "sentLetters": []
+}
